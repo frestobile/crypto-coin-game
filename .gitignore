@@ -1,2 +1,6 @@
 *.zip
 node_modules
+public/vendor
+public/SSL
+package-lock.json
+*.log
